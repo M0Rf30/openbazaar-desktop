@@ -36,8 +36,8 @@ const defaultSearchProviders = [
     logo: '../imgs/blockboothLogo.png',
     search: '',
     listings: 'https://search.blockbooth.com/api/',
-    torsearch: '',
-    torlistings: '',
+    torsearch: 'http://vnjzhvm5gkctyldn.onion/api/',
+    torlistings: 'http://vnjzhvm5gkctyldn.onion/api/',
     locked: true,
   },
 ];
