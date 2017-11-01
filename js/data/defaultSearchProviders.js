@@ -30,6 +30,16 @@ const defaultSearchProviders = [
     torlistings: '',
     locked: true,
   },
+  {
+    id: 'blockbooth',
+    name: 'Block Booth',
+    logo: '../imgs/blockboothLogo.png',
+    search: '',
+    listings: 'https://search.blockbooth.com/api/',
+    torsearch: '',
+    torlistings: '',
+    locked: true,
+  },
 ];
 
 export default defaultSearchProviders;
